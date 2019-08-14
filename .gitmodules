@@ -1,0 +1,9 @@
+[submodule "repo-1"]
+	path = repo-1
+	url = https://github.com/mergingsubmodules/repo-1
+[submodule "repo-2"]
+	path = repo-2
+	url = https://github.com/mergingsubmodules/repo-2
+[submodule "dir1/repo-3"]
+	path = dir1/repo-3
+	url = https://github.com/mergingsubmodules/repo-3
