@@ -1,3 +1,0 @@
-[submodule "repo-2"]
-	path = repo-2
-	url = https://github.com/mergingsubmodules/repo-2
